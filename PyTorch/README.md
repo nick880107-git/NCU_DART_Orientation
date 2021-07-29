@@ -24,6 +24,7 @@
 ![image](https://github.com/nick880107-git/NCU_DART_Orientation/blob/main/PyTorch/image/score.PNG)
 
 一開始的分數其實不到5成，猜測是模型設計問題(dropout過多)以及資料處理不熟練(tensor shape及encoding的調整)
+
 歷經幾次調校後才有這樣的分數，不過實際在訓練時計算的accurarcy約落在0.72~0.82(或許是因為沒有固定seed吧)
 
 ### 5. Problems during coding
