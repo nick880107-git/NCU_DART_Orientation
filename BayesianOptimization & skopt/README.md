@@ -73,3 +73,10 @@ TypeError: __init__() got an unexpected keyword argument 'iid'
 未進行超參數調整前，accuracy為0.937，可見超參數的調整是有助於模型訓練的優化。
 
 **完整程式碼可見skopt.ipynb**
+
+## Reference
+[Scikit-Optimize for Hyperparameter Tuning in Machine Learning](https://machinelearningmastery.com/scikit-optimize-for-hyperparameter-tuning-in-machine-learning/)
+
+[skopt.BayesSearchCV](https://scikit-optimize.github.io/stable/modules/generated/skopt.BayesSearchCV.html)
+
+[Issue on running Bayesian Search on decision tree](https://github.com/scikit-optimize/scikit-optimize/issues/978)
